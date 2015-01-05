@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <body>
          <div type="proposal">
-            <pb facs="tcp:022335_0000_0FB7ECD2729E4850"/>
-            <pb facs="tcp:022335_0001_0FB7ECD7417F77F8" rendition="simple:additions"/>
+            <pb facs="unknown:022335_0000_0FB7ECD2729E4850"/>
+            <pb facs="unknown:022335_0001_0FB7ECD7417F77F8"
+                rendition="simple:additions"/>
             <p>THE Subſcriber, being engaged in continuing the HISTORY of NEW HAMPSHIRE, and in<g ref="char:EOLhyphen"/>tending to give a topographical deſcription of the Country, and a particular account of every occur<g ref="char:EOLhyphen"/>rence, which may deſerve the publick notice, takes this method of applying to the Miniſters and other Gentlemen of note, in the State, and begs the favour of them to collect and tranſmit to him, ſuch in<g ref="char:EOLhyphen"/>formation as can be obtained on the following heads.</p>
             <p n="1">
                <hi>1.</hi> The time when each townſhip was granted; whether there were any interfering grants; when and how accommodations were made; when the ſettlement began; whether it was interrupt<g ref="char:EOLhyphen"/>ed, and by what means.</p>
